@@ -1,0 +1,1 @@
+{"type": "record", "name": "Position", "fields": [{"name": "POS_CN", "type": "float"}, {"name": "SECURITY", "type": "string"}, {"name": "TRADER", "type": "string"}]}
