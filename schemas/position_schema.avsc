@@ -1,1 +1,1 @@
-{"type": "record", "name": "Position", "fields": [{"name": "POS_CN", "type": ["null", "float"]}, {"name": "SECURITY", "type": ["null", "string"]}, {"name": "TRADER", "type": ["null", "string"]}]}
+{"type": "record", "name": "Position", "fields": [{"name": "POS_CN", "type": ["null", "float"], "default": "null"}, {"name": "SECURITY", "type": ["null", "string"], "default": "null"}, {"name": "TRADER", "type": ["null", "string"], "default": "null"}]}
